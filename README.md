@@ -4,5 +4,5 @@ Usage:
 
 ```
 ruby twos.rb -b 1001    # -7
-ruby twos.rb -d -12 5   # 10100
+ruby twos.rb -r 4       # -8 to 7
 ```
